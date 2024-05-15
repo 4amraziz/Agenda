@@ -1,5 +1,6 @@
 {
   "tokenSetOrder": [
-    "global"
+    "Premitives/Color",
+    "Premitives/Typography"
   ]
 }
