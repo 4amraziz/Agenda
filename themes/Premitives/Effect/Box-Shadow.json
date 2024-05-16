@@ -1,0 +1,17 @@
+{
+  "Box-Shadow": {
+    "8b": {
+      "value": [
+        {
+          "x": "0",
+          "y": "0",
+          "blur": "8",
+          "spread": "0",
+          "color": "rgba({Header.Mono.Dark}, 0.16)",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow"
+    }
+  }
+}

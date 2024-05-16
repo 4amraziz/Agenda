@@ -55,6 +55,14 @@
     "24": {
       "value": "{Numbers.24}",
       "type": "sizing"
+    },
+    "28": {
+      "value": "{Numbers.28}",
+      "type": "sizing"
+    },
+    "30": {
+      "value": "{Numbers.30}",
+      "type": "sizing"
     }
   }
 }

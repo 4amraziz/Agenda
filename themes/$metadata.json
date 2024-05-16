@@ -4,6 +4,8 @@
     "Premitives/Typography/Family",
     "Premitives/Typography/Size",
     "Premitives/Effect/Number",
+    "Premitives/Effect/Box-Shadow",
+    "Premitives/Effect/Background-Blur",
     "Agenda/Component/Button"
   ]
 }
