@@ -2,7 +2,7 @@
   "Header": {
     "Mono": {
       "Light": {
-        "value": "#465263",
+        "value": "red",
         "type": "color"
       },
       "Medium": {
