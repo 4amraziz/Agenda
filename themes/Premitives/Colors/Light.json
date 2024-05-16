@@ -13,6 +13,28 @@
         "value": "#0C1B23",
         "type": "color"
       }
+    },
+    "Green": {
+      "Light": {
+        "value": "#A8F9AB",
+        "type": "color"
+      },
+      "Medium": {
+        "value": "#12B76A",
+        "type": "color"
+      }
+    },
+    "Purple": {
+      "Medium": {
+        "value": "#962FF5",
+        "type": "color"
+      }
+    },
+    "Main": {
+      "White": {
+        "value": "#FFFFFF",
+        "type": "color"
+      }
     }
   }
 }
