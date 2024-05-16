@@ -1,6 +1,7 @@
 {
   "tokenSetOrder": [
-    "Premitives/Color",
-    "Premitives/Typography"
+    "Premitives/Colors/Light",
+    "Premitives/Typography/Family",
+    "Premitives/Effect/Border"
   ]
 }
