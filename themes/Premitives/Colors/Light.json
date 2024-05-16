@@ -1,1 +1,18 @@
-{}
+{
+  "Header": {
+    "Mono": {
+      "Light": {
+        "value": "#465263",
+        "type": "color"
+      },
+      "Medium": {
+        "value": "#1C292F",
+        "type": "color"
+      },
+      "Dark": {
+        "value": "#0C1B23",
+        "type": "color"
+      }
+    }
+  }
+}
