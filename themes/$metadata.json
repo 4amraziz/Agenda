@@ -2,7 +2,8 @@
   "tokenSetOrder": [
     "Premitives/Colors/Light",
     "Premitives/Typography/Family",
+    "Premitives/Typography/Size",
     "Premitives/Effect/Number",
-    "Agenda/Components/Button"
+    "Agenda/Component/Button"
   ]
 }

@@ -1,0 +1,60 @@
+{
+  "Font-Size": {
+    "1": {
+      "value": "{Numbers.12}",
+      "type": "sizing"
+    },
+    "6": {
+      "value": "{Numbers.6}",
+      "type": "sizing"
+    },
+    "8": {
+      "value": "{Numbers.8}",
+      "type": "sizing"
+    },
+    "9": {
+      "value": "{Numbers.9}",
+      "type": "sizing"
+    },
+    "10": {
+      "value": "{Numbers.10}",
+      "type": "sizing"
+    },
+    "11": {
+      "value": "{Numbers.11}",
+      "type": "sizing"
+    },
+    "12": {
+      "value": "{Numbers.12}",
+      "type": "sizing"
+    },
+    "13": {
+      "value": "{Numbers.13}",
+      "type": "sizing"
+    },
+    "14": {
+      "value": "{Numbers.14}",
+      "type": "sizing"
+    },
+    "16": {
+      "value": "{Numbers.16}",
+      "type": "sizing"
+    },
+    "18": {
+      "value": "{Numbers.18}",
+      "type": "sizing"
+    },
+    "20": {
+      "value": "{Numbers.20}",
+      "type": "sizing"
+    },
+    "22": {
+      "value": "{Numbers.22}",
+      "type": "sizing"
+    },
+    "24": {
+      "value": "{Numbers.24}",
+      "type": "sizing"
+    }
+  }
+}
