@@ -27,6 +27,10 @@
       "value": "{Border-Radius.6}",
       "type": "borderRadius"
     },
+    "12": {
+      "value": "{Border-Radius.12}",
+      "type": "borderRadius"
+    },
     "14": {
       "value": "{Border-Radius.14}",
       "type": "borderRadius"
@@ -39,6 +43,10 @@
   "Icon-btn-default": {
     "shape": {
       "value": "{Header.Main.White}",
+      "type": "color"
+    },
+    "Mgreen": {
+      "value": "{Header.Green.Medium}",
       "type": "color"
     },
     "grad": {
@@ -89,6 +97,10 @@
       "value": "{Numbers.32}",
       "type": "sizing"
     },
+    "38": {
+      "value": "{Numbers.38}",
+      "type": "sizing"
+    },
     "40": {
       "value": "{Numbers.40}",
       "type": "sizing"
@@ -99,6 +111,10 @@
     }
   },
   "Space-btn-default": {
+    "5": {
+      "value": "{Numbers.5}",
+      "type": "spacing"
+    },
     "6": {
       "value": "{Numbers.6}",
       "type": "spacing"
@@ -127,6 +143,10 @@
     },
     "wh": {
       "value": "{Header.Main.White}",
+      "type": "color"
+    },
+    "Lgreen": {
+      "value": "{Header.Green.Light}",
       "type": "color"
     }
   },
