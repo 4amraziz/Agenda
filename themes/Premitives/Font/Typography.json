@@ -1,19 +1,39 @@
 {
   "Typography": {
     "Medium": {
+      "10": {
+        "value": {
+          "fontFamily": "{Family.Agenda}",
+          "fontWeight": "{Font-Weight-Agenda.Medium}",
+          "fontSize": "{Font-Size.10}",
+          "lineHeight": "Auto"
+        },
+        "type": "typography"
+      },
+      "14": {
+        "value": {
+          "fontFamily": "{Family.Agenda}",
+          "fontWeight": "{Font-Weight-Agenda.Medium}",
+          "fontSize": "{Font-Size.14}",
+          "lineHeight": "Auto"
+        },
+        "type": "typography"
+      },
+      "16": {
+        "value": {
+          "fontFamily": "{Family.Agenda}",
+          "fontWeight": "{Font-Weight-Agenda.Medium}",
+          "fontSize": "{Font-Size.16}",
+          "lineHeight": "Auto"
+        },
+        "type": "typography"
+      },
       "20": {
         "value": {
           "fontFamily": "{Family.Agenda}",
           "fontWeight": "{Font-Weight-Agenda.Medium}",
-          "fontSize": "{Font-Size.20}"
-        },
-        "type": "typography"
-      },
-      "20-copy": {
-        "value": {
-          "fontFamily": "{Family.Agenda}",
-          "fontWeight": "{Font-Weight-Agenda.Medium}",
-          "fontSize": "{Font-Size.16}"
+          "fontSize": "{Font-Size.20}",
+          "lineHeight": "Auto"
         },
         "type": "typography"
       }
