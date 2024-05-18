@@ -56,12 +56,32 @@
       "value": "{Numbers.24}",
       "type": "sizing"
     },
+    "26": {
+      "value": "{Numbers.26}",
+      "type": "sizing"
+    },
     "28": {
       "value": "{Numbers.28}",
       "type": "sizing"
     },
     "30": {
       "value": "{Numbers.30}",
+      "type": "sizing"
+    },
+    "32": {
+      "value": "{Numbers.32}",
+      "type": "sizing"
+    },
+    "36": {
+      "value": "{Numbers.36}",
+      "type": "sizing"
+    },
+    "40": {
+      "value": "{Numbers.40}",
+      "type": "sizing"
+    },
+    "44": {
+      "value": "{Numbers.44}",
       "type": "sizing"
     }
   }
