@@ -1,88 +1,92 @@
 {
   "Font-Size": {
     "1": {
-      "value": "{Numbers.12}",
-      "type": "sizing"
+      "value": "1",
+      "type": "fontSizes"
     },
     "6": {
-      "value": "{Numbers.6}",
-      "type": "sizing"
+      "value": "6",
+      "type": "fontSizes"
     },
     "8": {
-      "value": "{Numbers.8}",
-      "type": "sizing"
+      "value": "8",
+      "type": "fontSizes"
     },
     "9": {
-      "value": "{Numbers.9}",
-      "type": "sizing"
+      "value": "9",
+      "type": "fontSizes"
     },
     "10": {
-      "value": "{Numbers.10}",
-      "type": "sizing"
+      "value": "10",
+      "type": "fontSizes"
     },
     "11": {
-      "value": "{Numbers.11}",
-      "type": "sizing"
+      "value": "11",
+      "type": "fontSizes"
     },
     "12": {
-      "value": "{Numbers.12}",
-      "type": "sizing"
+      "value": "12",
+      "type": "fontSizes"
     },
     "13": {
-      "value": "{Numbers.13}",
-      "type": "sizing"
+      "value": "13",
+      "type": "fontSizes"
     },
     "14": {
-      "value": "{Numbers.14}",
-      "type": "sizing"
+      "value": "14",
+      "type": "fontSizes"
     },
     "16": {
-      "value": "{Numbers.16}",
-      "type": "sizing"
+      "value": "16",
+      "type": "fontSizes"
     },
     "18": {
-      "value": "{Numbers.18}",
-      "type": "sizing"
+      "value": "18",
+      "type": "fontSizes"
     },
     "20": {
-      "value": "{Numbers.20}",
-      "type": "sizing"
+      "value": "20",
+      "type": "fontSizes"
     },
     "22": {
-      "value": "{Numbers.22}",
-      "type": "sizing"
+      "value": "22",
+      "type": "fontSizes"
     },
     "24": {
-      "value": "{Numbers.24}",
-      "type": "sizing"
+      "value": "24",
+      "type": "fontSizes"
     },
     "26": {
-      "value": "{Numbers.26}",
-      "type": "sizing"
+      "value": "26",
+      "type": "fontSizes"
     },
     "28": {
-      "value": "{Numbers.28}",
-      "type": "sizing"
+      "value": "28",
+      "type": "fontSizes"
     },
     "30": {
-      "value": "{Numbers.30}",
-      "type": "sizing"
+      "value": "30",
+      "type": "fontSizes"
     },
     "32": {
-      "value": "{Numbers.32}",
-      "type": "sizing"
+      "value": "32",
+      "type": "fontSizes"
     },
     "36": {
-      "value": "{Numbers.36}",
-      "type": "sizing"
+      "value": "36",
+      "type": "fontSizes"
     },
     "40": {
-      "value": "{Numbers.40}",
-      "type": "sizing"
+      "value": "40",
+      "type": "fontSizes"
     },
     "44": {
-      "value": "{Numbers.44}",
-      "type": "sizing"
+      "value": "44",
+      "type": "fontSizes"
+    },
+    "48": {
+      "value": "48",
+      "type": "fontSizes"
     }
   }
 }
