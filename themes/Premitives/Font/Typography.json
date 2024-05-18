@@ -37,6 +37,16 @@
         },
         "type": "typography"
       }
+    },
+    "Regular": {
+      "11": {
+        "value": {
+          "fontWeight": "{Font-Weight-Agenda.Regular}",
+          "fontFamily": "{Family.Agenda}",
+          "fontSize": "{Font-Size.11}"
+        },
+        "type": "typography"
+      }
     }
   }
 }
