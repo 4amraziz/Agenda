@@ -12,6 +12,10 @@
       "Dark": {
         "value": "#0C1B23",
         "type": "color"
+      },
+      "gradient-1": {
+        "value": "linear-gradient(-45deg, rgba({Header.Mono.Dark}, 0.12) 0%, rgba({Header.Mono.Dark}, 0.0) 100%), 0.12",
+        "type": "color"
       }
     },
     "Green": {
