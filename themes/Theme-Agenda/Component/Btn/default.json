@@ -40,6 +40,10 @@
     "shape": {
       "value": "{Header.Main.White}",
       "type": "color"
+    },
+    "grad": {
+      "value": "{Header.gradient.purple}",
+      "type": "color"
     }
   },
   "TXT-btn-default": {
@@ -52,6 +56,10 @@
     "14": {
       "value": "{Typography.Medium.14}",
       "type": "typography"
+    },
+    "16": {
+      "value": "{Typography.SemiBold.16}",
+      "type": "typography"
     }
   },
   "Shape-btn-default": {
@@ -62,15 +70,27 @@
     "20": {
       "value": "{border-line.fade-white-20}",
       "type": "border"
+    },
+    "black": {
+      "value": "{border-line.fade-black}",
+      "type": "border"
     }
   },
   "Size-Shape": {
+    "16": {
+      "value": "{Numbers.16}",
+      "type": "sizing"
+    },
     "20": {
       "value": "{Numbers.20}",
       "type": "sizing"
     },
     "32": {
       "value": "{Numbers.32}",
+      "type": "sizing"
+    },
+    "40": {
+      "value": "{Numbers.40}",
       "type": "sizing"
     },
     "48": {
@@ -103,6 +123,10 @@
   "Icon-btn-back-default": {
     "shape": {
       "value": "rgba({Header.Mono.Dark}, 0.5)",
+      "type": "color"
+    },
+    "wh": {
+      "value": "{Header.Main.White}",
       "type": "color"
     }
   },
