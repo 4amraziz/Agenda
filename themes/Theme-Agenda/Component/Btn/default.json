@@ -15,6 +15,10 @@
     }
   },
   "radius-btn-default": {
+    "6": {
+      "value": "{Border-Radius.6}",
+      "type": "borderRadius"
+    },
     "14": {
       "value": "{Border-Radius.14}",
       "type": "borderRadius"
@@ -32,7 +36,7 @@
   },
   "TXT-btn-default": {
     "shape": {
-      "value": "rgba({Header.Main.White}, 0.9)",
+      "value": "rgba({Header.Main.White}, 1)",
       "type": "color"
     }
   },
@@ -45,6 +49,10 @@
   "Shape-btn-default": {
     "Main": {
       "value": "{border-line.fade-white-20}",
+      "type": "border"
+    },
+    "icon": {
+      "value": "{border-line.fade-white-15}",
       "type": "border"
     }
   },
@@ -82,6 +90,12 @@
     "24": {
       "value": "{Numbers.24}",
       "type": "spacing"
+    }
+  },
+  "Icon-btn-back-default": {
+    "shape": {
+      "value": "rgba({Header.Mono.Dark}, 0.5)",
+      "type": "color"
     }
   }
 }

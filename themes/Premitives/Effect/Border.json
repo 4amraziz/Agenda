@@ -24,6 +24,14 @@
       },
       "type": "border"
     },
+    "fade-white-15": {
+      "value": {
+        "color": "rgba({Header.Main.White}, 0.15)",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border"
+    },
     "fade-black": {
       "value": {
         "color": "rgba( {Header.Main.black}, 0.2)",

@@ -1,5 +1,9 @@
 {
   "Border-Radius": {
+    "6": {
+      "value": "{Numbers.6}",
+      "type": "borderRadius"
+    },
     "14": {
       "value": "{Numbers.14}",
       "type": "borderRadius"
