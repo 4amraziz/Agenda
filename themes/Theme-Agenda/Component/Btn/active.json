@@ -55,6 +55,10 @@
     }
   },
   "Space-btn-active": {
+    "8": {
+      "value": "{Numbers.8}",
+      "type": "spacing"
+    },
     "14": {
       "value": "{Numbers.14}",
       "type": "spacing"
