@@ -17,12 +17,8 @@
         "value": "linear-gradient(-45deg, rgba({Header.Mono.Dark}, 0.12) 0%, rgba({Header.Mono.Dark}, 0.0) 100%)",
         "type": "color"
       },
-      "gradient-testoo": {
-        "value": "linear-gradient(-45deg, {Header.Mono.Dark} 0%, rgba({Header.Mono.Dark}, 0.0) 100%)",
-        "type": "color"
-      },
       "gradient-2": {
-        "value": "linear-gradient(-45deg, rgba({Header.Mono.Dark}, 0.12) 0%, rgba({Header.Mono.Dark}, 0.0) 100%)",
+        "value": "linear-gradient(-45deg, rgba({Header.Mono.Dark}, 0.5) 0%, rgba({Header.Mono.Dark}, 0.0) 100%)",
         "type": "color"
       }
     },
