@@ -1,6 +1,6 @@
 {
   "border-line": {
-    "main-border": {
+    "white": {
       "value": {
         "color": "rgba({Header.Main.White}, 0.2)",
         "width": "1",
@@ -8,9 +8,17 @@
       },
       "type": "border"
     },
-    "border-top": {
+    "fade-white": {
       "value": {
         "color": "rgba({Header.Main.White}, 0.2)",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border"
+    },
+    "fade-black": {
+      "value": {
+        "color": "rgba( {Header.Main.black}, 0.2)",
         "width": "1",
         "style": "solid"
       },

@@ -52,6 +52,10 @@
       "White": {
         "value": "#FFFFFF",
         "type": "color"
+      },
+      "black": {
+        "value": "#000000",
+        "type": "color"
       }
     }
   }
