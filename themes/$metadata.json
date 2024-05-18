@@ -13,6 +13,8 @@
     "Premitives/Effect/Border",
     "Premitives/Effect/Radius",
     "Theme-Agenda/Component/Btn-Tab/Default",
+    "Theme-Agenda/Component/Btn-Tab/Filled",
+    "Theme-Agenda/Component/Btn-Tab/Active",
     "Theme-Agenda/Component/Btn-Tab/Fadeout"
   ]
 }
