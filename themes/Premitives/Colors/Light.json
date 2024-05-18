@@ -12,13 +12,19 @@
       "Dark": {
         "value": "#0C1B23",
         "type": "color"
-      },
-      "gradient-1": {
+      }
+    },
+    "gradient": {
+      "gray1": {
         "value": "linear-gradient(-45deg, rgba({Header.Mono.Dark}, 0.12) 0%, rgba({Header.Mono.Dark}, 0.0) 100%)",
         "type": "color"
       },
-      "gradient-2": {
+      "gray2": {
         "value": "linear-gradient(-45deg, rgba({Header.Mono.Dark}, 0.5) 0%, rgba({Header.Mono.Dark}, 0.0) 100%)",
+        "type": "color"
+      },
+      "purple": {
+        "value": "linear-gradient(45deg, {Header.Purple.Dark} 0%, {Header.Purple.Medium} 100%)",
         "type": "color"
       }
     },
@@ -35,6 +41,10 @@
     "Purple": {
       "Medium": {
         "value": "#962FF5",
+        "type": "color"
+      },
+      "Dark": {
+        "value": "#7D16DB",
         "type": "color"
       }
     },
