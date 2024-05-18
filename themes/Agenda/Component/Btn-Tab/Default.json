@@ -3,6 +3,10 @@
     "shape": {
       "value": "rgba({Header.Main.White}, 0.1)",
       "type": "color"
+    },
+    "Main": {
+      "value": "{Border-Radius.14}",
+      "type": "borderRadius"
     }
   },
   "Icon": {

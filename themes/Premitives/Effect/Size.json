@@ -1,0 +1,40 @@
+{
+  "Sizes": {
+    "0": {
+      "value": "{Numbers.0}",
+      "type": "sizing"
+    },
+    "1": {
+      "value": "{Numbers.1}",
+      "type": "sizing"
+    },
+    "2": {
+      "value": "{Numbers.2}",
+      "type": "sizing"
+    },
+    "3": {
+      "value": "{Numbers.3}",
+      "type": "sizing"
+    },
+    "4": {
+      "value": "{Numbers.4}",
+      "type": "sizing"
+    },
+    "6": {
+      "value": "{Numbers.6}",
+      "type": "sizing"
+    },
+    "8": {
+      "value": "{Numbers.8}",
+      "type": "sizing"
+    },
+    "9": {
+      "value": "{Numbers.9}",
+      "type": "sizing"
+    },
+    "10": {
+      "value": "{Numbers.10}",
+      "type": "sizing"
+    }
+  }
+}
