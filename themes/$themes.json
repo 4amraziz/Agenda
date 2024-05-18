@@ -28,13 +28,13 @@
       "Box-Shadow.8b": "S:5cd45d77c9c60ec19c3d56d02008f4c1056065b4,",
       "Box-Shadow.3b": "S:bfa9c8ab8b6942d9fe5c06b7af4111e8beaa907e,",
       "Background-btn-tab-filled.shape": "S:e66ef38e6d18b4a7b438f9ad79288532ac3e0460,",
-      "Icon-btn-tab-default.shape": "S:fbb7c2592a213721c3424730aee203ebd7819d61,",
-      "TXT-btn-tab-default.shape": "S:ab30fdd16352ce58ed36f7ce67d9f911caab14e6,",
       "typo-btn-tab-default.Title": "S:bb34d2e400d9252e3a26ea401c4eab08c2f00097,",
       "Icon-btn-tab-filled.shape": "S:fe756585a120eb872372684fe204c2bf4e04960c,",
       "TXT-btn-tab-filled.shape": "S:c6588164d12a4b410c10ac9727859caaf97e6367,",
-      "Background-btn-tab-default.shape": "S:65ac18cebbcea94feb98721d9c4b5dd78112c593,",
-      "typo-btn-tab-filled.Title": "S:ea1f7d44250d5ca586ea2ee53035fff792516858,"
+      "typo-btn-tab-filled.Title": "S:ea1f7d44250d5ca586ea2ee53035fff792516858,",
+      "Background-btn-default.shape": "S:65ac18cebbcea94feb98721d9c4b5dd78112c593,",
+      "Icon-btn-default.shape": "S:fbb7c2592a213721c3424730aee203ebd7819d61,",
+      "TXT-btn-default.shape": "S:ab30fdd16352ce58ed36f7ce67d9f911caab14e6,"
     },
     "selectedTokenSets": {
       "Premitives/Colors/Light": "source",
@@ -51,7 +51,8 @@
       "Premitives/Effect/Radius": "source",
       "Theme-Agenda/Component/Btn-Tab/Default": "enabled",
       "Theme-Agenda/Component/Btn-Tab/Filled": "enabled",
-      "Theme-Agenda/Component/Btn-Tab/Active": "enabled"
+      "Theme-Agenda/Component/Btn-Tab/Active": "enabled",
+      "Theme-Agenda/Component/Btn/default": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:41:1499",
     "$figmaModeId": "41:1",
@@ -61,10 +62,10 @@
       "TXT-btn-tab-filled.shape": "2898cf57dc93a475dadc82c822804314c30e27fc",
       "Size-Shape.48": "f9f6551738a9c5737aac2e39e4e6db640a3dbe78",
       "Size-Shape.iconsize24": "f2fc28b9a6d48bd50f008ea310a36731fb11021b",
-      "Background-btn-tab-default.shape": "e3e20bdd0a90a75d9c1fde72f1cd0a0ee0c4b005",
       "radius-btn-tab-default.Main": "55e6242cc620a7235cb5173a7142c5c8e73f9d73",
-      "Icon-btn-tab-default.shape": "ddf33a276ff0d83a3524600404d3ed07badb6276",
-      "TXT-btn-tab-default.shape": "98cbf76cd47a8e8b5d0257aff70bb6f2c8b08a14"
+      "Background-btn-default.shape": "e3e20bdd0a90a75d9c1fde72f1cd0a0ee0c4b005",
+      "Icon-btn-default.shape": "ddf33a276ff0d83a3524600404d3ed07badb6276",
+      "TXT-btn-default.shape": "98cbf76cd47a8e8b5d0257aff70bb6f2c8b08a14"
     },
     "group": "Agenda"
   }
