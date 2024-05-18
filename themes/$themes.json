@@ -71,7 +71,6 @@
     "$figmaModeId": "41:6",
     "$figmaVariableReferences": {
       "Background-btn-active.shape": "b430bdda8c6bd9781137111036e067c998679fe2",
-      "radius-btn-active.Main": "dfbea1be357661ed606c997ee5726ad031cbb0dc",
       "Icon-btn-active.shape": "029dbc9fb3151b4b15ba69e021f925808a908ec6",
       "TXT-btn-active.shape": "aa5d35dededcce2acfc95bb1c4312774aabd144f",
       "Size-Shape.48": "61ed4e9379188a11a33af79803f7c2ec7f2fece3",
@@ -79,7 +78,6 @@
       "Space-btn-active.24": "80dbaf783446b6bb52a438b57e87ea0bbfae6dfe",
       "Space-btn-active.14": "34541dd3f3bcd81ddf06e2656493ae5ba582319f",
       "Background-btn-default.shape": "6e078a3f769398c733181ac6a4ec216e63cc080c",
-      "radius-btn-default.Main": "245a5128d04ed55dd7ec9a4d11d60ee08bc938a8",
       "Icon-btn-default.shape": "d329c284c18ebf7783cf1ae9004d6d1031c656e8",
       "TXT-btn-default.shape": "b6b83ef9ffc668b33790a604395cc8d74c48e0b4",
       "Background-btn-tab-active.shape": "6a2bf6785c36e044d0591a69347eae3ada9d52c1",
@@ -229,7 +227,9 @@
       "Header.Purple.Dark": "63eb118c51e3cc0fb35d074fbbb6ad8cecdd4d62",
       "Header.Main.White": "6b28b31f858d960ca94d014066daf8a6b8088c60",
       "Header.Main.black": "8b57b0da720200d3ce9acb989bf36341c637c974",
-      "Space-btn-default.14": "097a971a9b21c38e1927598b49a5214704e081a7"
+      "Space-btn-default.14": "097a971a9b21c38e1927598b49a5214704e081a7",
+      "radius-btn-default.48": "245a5128d04ed55dd7ec9a4d11d60ee08bc938a8",
+      "radius-btn-active.48": "dfbea1be357661ed606c997ee5726ad031cbb0dc"
     },
     "group": "Agenda"
   }

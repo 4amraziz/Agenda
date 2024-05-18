@@ -15,7 +15,11 @@
     }
   },
   "radius-btn-active": {
-    "Main": {
+    "14": {
+      "value": "{Border-Radius.14}",
+      "type": "borderRadius"
+    },
+    "48": {
       "value": "{Border-Radius.48}",
       "type": "borderRadius"
     }
@@ -55,8 +59,16 @@
     }
   },
   "Space-btn-active": {
+    "6": {
+      "value": "{Numbers.6}",
+      "type": "spacing"
+    },
     "8": {
       "value": "{Numbers.8}",
+      "type": "spacing"
+    },
+    "12": {
+      "value": "{Numbers.12}",
       "type": "spacing"
     },
     "14": {
