@@ -7,6 +7,14 @@
         "style": "solid"
       },
       "type": "border"
+    },
+    "border-top": {
+      "value": {
+        "color": "rgba({Header.Main.White}, 0.2)",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border"
     }
   },
   "Box-Shadow": {
