@@ -11,6 +11,10 @@
     "Regular": {
       "value": "Regular",
       "type": "fontWeights"
+    },
+    "Bold": {
+      "value": "Bold",
+      "type": "fontWeights"
     }
   }
 }
