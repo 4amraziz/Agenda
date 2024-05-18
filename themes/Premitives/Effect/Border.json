@@ -8,5 +8,18 @@
       },
       "type": "border"
     }
+  },
+  "Box-Shadow": {
+    "Border-top-1px": {
+      "value": {
+        "x": "0",
+        "y": "1",
+        "blur": "0",
+        "spread": "0",
+        "color": "rgba({Header.Main.White}, 0.2)",
+        "type": "innerShadow"
+      },
+      "type": "boxShadow"
+    }
   }
 }
