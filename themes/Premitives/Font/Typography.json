@@ -1,1 +1,22 @@
-{}
+{
+  "Typography": {
+    "Medium": {
+      "20": {
+        "value": {
+          "fontFamily": "{Family.Agenda}",
+          "fontWeight": "{Font-Weight-Agenda.Medium}",
+          "fontSize": "{Font-Size.20}"
+        },
+        "type": "typography"
+      },
+      "20-copy": {
+        "value": {
+          "fontFamily": "{Family.Agenda}",
+          "fontWeight": "{Font-Weight-Agenda.Medium}",
+          "fontSize": "{Font-Size.16}"
+        },
+        "type": "typography"
+      }
+    }
+  }
+}
