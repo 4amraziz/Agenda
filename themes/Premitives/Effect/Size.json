@@ -135,6 +135,82 @@
     "56": {
       "value": "{Numbers.56}",
       "type": "sizing"
+    },
+    "60": {
+      "value": "{Numbers.60}",
+      "type": "sizing"
+    },
+    "62": {
+      "value": "{Numbers.62}",
+      "type": "sizing"
+    },
+    "64": {
+      "value": "{Numbers.64}",
+      "type": "sizing"
+    },
+    "68": {
+      "value": "{Numbers.68}",
+      "type": "sizing"
+    },
+    "70": {
+      "value": "{Numbers.70}",
+      "type": "sizing"
+    },
+    "72": {
+      "value": "{Numbers.72}",
+      "type": "sizing"
+    },
+    "74": {
+      "value": "{Numbers.74}",
+      "type": "sizing"
+    },
+    "76": {
+      "value": "{Numbers.76}",
+      "type": "sizing"
+    },
+    "78": {
+      "value": "{Numbers.78}",
+      "type": "sizing"
+    },
+    "80": {
+      "value": "{Numbers.80}",
+      "type": "sizing"
+    },
+    "82": {
+      "value": "{Numbers.82}",
+      "type": "sizing"
+    },
+    "84": {
+      "value": "{Numbers.84}",
+      "type": "sizing"
+    },
+    "86": {
+      "value": "{Numbers.86}",
+      "type": "sizing"
+    },
+    "90": {
+      "value": "{Numbers.90}",
+      "type": "sizing"
+    },
+    "92": {
+      "value": "{Numbers.92}",
+      "type": "sizing"
+    },
+    "94": {
+      "value": "{Numbers.94}",
+      "type": "sizing"
+    },
+    "96": {
+      "value": "{Numbers.96}",
+      "type": "sizing"
+    },
+    "98": {
+      "value": "{Numbers.98}",
+      "type": "sizing"
+    },
+    "100": {
+      "value": "{Numbers.100}",
+      "type": "sizing"
     }
   }
 }
