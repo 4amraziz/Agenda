@@ -32,5 +32,11 @@
       "value": "{border-line.fade-white-10}",
       "type": "border"
     }
+  },
+  "Size-Shape": {
+    "48": {
+      "value": "{Sizes.48}",
+      "type": "sizing"
+    }
   }
 }
