@@ -6,7 +6,7 @@
           "fontFamily": "{Family.Agenda}",
           "fontWeight": "{Font-Weight-Agenda.Medium}",
           "fontSize": "{Font-Size.10}",
-          "lineHeight": "Auto"
+          "lineHeight": "{Line-height.Auto}"
         },
         "type": "typography"
       },
@@ -15,7 +15,7 @@
           "fontFamily": "{Family.Agenda}",
           "fontWeight": "{Font-Weight-Agenda.Medium}",
           "fontSize": "{Font-Size.14}",
-          "lineHeight": "Auto"
+          "lineHeight": "{Line-height.Auto}"
         },
         "type": "typography"
       },
@@ -24,7 +24,7 @@
           "fontFamily": "{Family.Agenda}",
           "fontWeight": "{Font-Weight-Agenda.Medium}",
           "fontSize": "{Font-Size.16}",
-          "lineHeight": "Auto"
+          "lineHeight": "{Line-height.Auto}"
         },
         "type": "typography"
       },
@@ -33,7 +33,7 @@
           "fontFamily": "{Family.Agenda}",
           "fontWeight": "{Font-Weight-Agenda.Medium}",
           "fontSize": "{Font-Size.20}",
-          "lineHeight": "Auto"
+          "lineHeight": "{Line-height.Auto}"
         },
         "type": "typography"
       }
@@ -43,7 +43,8 @@
         "value": {
           "fontWeight": "{Font-Weight-Agenda.Regular}",
           "fontFamily": "{Family.Agenda}",
-          "fontSize": "{Font-Size.11}"
+          "fontSize": "{Font-Size.11}",
+          "lineHeight": "{Line-height.Auto}"
         },
         "type": "typography"
       }
