@@ -1,8 +1,9 @@
 {
   "tokenSetOrder": [
     "Premitives/Colors/Light",
-    "Premitives/Typography/Family",
-    "Premitives/Typography/Size",
+    "Premitives/Font/Family",
+    "Premitives/Font/Typography",
+    "Premitives/Font/Size",
     "Premitives/Effect/Number",
     "Premitives/Effect/Box-Shadow",
     "Premitives/Effect/Background-Blur",
