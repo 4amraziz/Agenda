@@ -17,7 +17,7 @@
   },
   "TXT": {
     "shape": {
-      "value": "{Header.Main.White}",
+      "value": "rgba({Header.Main.White}, 0.9)",
       "type": "color"
     }
   },

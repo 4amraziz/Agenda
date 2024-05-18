@@ -1,1 +1,27 @@
-[]
+[
+  {
+    "id": "7cfc9a04844a348d240beeba2c8d400b4b89d436",
+    "name": "Light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Agenda/Component/Btn-Tab/Default": "enabled",
+      "Agenda/Component/Btn-Tab/Fadeout": "enabled",
+      "Premitives/Colors": "enabled",
+      "Premitives/Colors/Light": "enabled",
+      "Premitives/Font": "enabled",
+      "Premitives/Font/Family": "enabled",
+      "Premitives/Font/Weight": "enabled",
+      "Premitives/Font/Line-height": "enabled",
+      "Premitives/Font/Typography": "enabled",
+      "Premitives/Font/Size": "enabled",
+      "Premitives/Effect": "enabled",
+      "Premitives/Effect/Number": "enabled",
+      "Premitives/Effect/Size": "enabled",
+      "Premitives/Effect/Box-Shadow": "enabled",
+      "Premitives/Effect/Background-Blur": "enabled",
+      "Premitives/Effect/Border": "enabled",
+      "Premitives/Effect/Radius": "enabled"
+    },
+    "group": "Agenda"
+  }
+]
