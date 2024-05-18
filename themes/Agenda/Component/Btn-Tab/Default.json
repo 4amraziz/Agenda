@@ -22,5 +22,11 @@
       "value": "{Typography.SemiBold.12}",
       "type": "typography"
     }
+  },
+  "Shape": {
+    "Main": {
+      "value": "rgba({border-line.white}, 0.1)",
+      "type": "border"
+    }
   }
 }

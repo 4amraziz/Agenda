@@ -2,7 +2,7 @@
   "border-line": {
     "white": {
       "value": {
-        "color": "rgba({Header.Main.White}, 0.2)",
+        "color": "{Header.Main.White}",
         "width": "1",
         "style": "solid"
       },
