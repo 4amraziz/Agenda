@@ -71,7 +71,7 @@
       "value": "{border-line.fade-white-20}",
       "type": "border"
     },
-    "black": {
+    "blackborder": {
       "value": "{border-line.fade-black}",
       "type": "border"
     }
