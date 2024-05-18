@@ -53,5 +53,11 @@
       "value": "{Numbers.20}",
       "type": "sizing"
     }
+  },
+  "Space-btn-default": {
+    "24": {
+      "value": "{Numbers.24}",
+      "type": "spacing"
+    }
   }
 }
