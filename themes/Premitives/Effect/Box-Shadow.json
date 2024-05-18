@@ -12,6 +12,19 @@
         }
       ],
       "type": "boxShadow"
+    },
+    "3b": {
+      "value": [
+        {
+          "x": "0",
+          "y": "0",
+          "blur": "3",
+          "spread": "0",
+          "color": "rgba({Header.Mono.Dark}, 0.3)",
+          "type": "dropShadow"
+        }
+      ],
+      "type": "boxShadow"
     }
   }
 }
