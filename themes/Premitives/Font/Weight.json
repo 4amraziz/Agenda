@@ -1,0 +1,12 @@
+{
+  "Font-Weight-Agenda": {
+    "Medium": {
+      "value": "Medium",
+      "type": "fontWeights"
+    },
+    "Semibold": {
+      "value": "SemiBold",
+      "type": "fontWeights"
+    }
+  }
+}

@@ -2,6 +2,7 @@
   "tokenSetOrder": [
     "Premitives/Colors/Light",
     "Premitives/Font/Family",
+    "Premitives/Font/Weight",
     "Premitives/Font/Typography",
     "Premitives/Font/Size",
     "Premitives/Effect/Number",
