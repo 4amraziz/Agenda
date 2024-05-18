@@ -12,7 +12,7 @@
     "Premitives/Effect/Background-Blur",
     "Premitives/Effect/Border",
     "Premitives/Effect/Radius",
-    "Agenda/Component/Btn-Tab/Default",
-    "Agenda/Component/Btn-Tab/Fadeout"
+    "Theme-Agenda/Component/Btn-Tab/Default",
+    "Theme-Agenda/Component/Btn-Tab/Fadeout"
   ]
 }
