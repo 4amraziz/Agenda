@@ -15,8 +15,11 @@
     },
     "tabmain": {
       "value": "{Header.gradient.12}",
-      "type": "color",
-      "$extensions": {}
+      "type": "color"
+    },
+    "tabmain-current": {
+      "value": "{Header.Mono.Medium}",
+      "type": "color"
     }
   },
   "radius-btn-default": {
