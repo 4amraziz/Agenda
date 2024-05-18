@@ -13,7 +13,7 @@
   },
   "Icon-btn-tab-filled": {
     "shape": {
-      "value": "{Header.Mono.Light}",
+      "value": "{Header.gradient.purple}",
       "type": "color"
     }
   },

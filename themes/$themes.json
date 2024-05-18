@@ -50,7 +50,6 @@
       "Premitives/Effect/Border": "source",
       "Premitives/Effect/Radius": "source",
       "Theme-Agenda/Component/Btn-Tab/Default": "enabled",
-      "Theme-Agenda/Component/Btn-Tab/Fadeout": "enabled",
       "Theme-Agenda/Component/Btn-Tab/Filled": "enabled",
       "Theme-Agenda/Component/Btn-Tab/Active": "enabled"
     },
@@ -59,7 +58,6 @@
     "$figmaVariableReferences": {
       "Background-btn-tab-filled.shape": "cefbbe2e2efe289933b6dd4c179e4156a2153c2e",
       "radius-btn-tab-filled.Main": "4259be620e22a39e91ccea86b0c681ca5cb590f1",
-      "Icon-btn-tab-filled.shape": "abb653098707f5d898e810c97a752c07874135e8",
       "TXT-btn-tab-filled.shape": "2898cf57dc93a475dadc82c822804314c30e27fc",
       "Size-Shape.48": "f9f6551738a9c5737aac2e39e4e6db640a3dbe78",
       "Size-Shape.iconsize24": "f2fc28b9a6d48bd50f008ea310a36731fb11021b",
