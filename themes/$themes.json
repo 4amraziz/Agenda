@@ -6,8 +6,6 @@
       "Header.Mono.Light": "S:f48bc56d059d5be2375cc98dd23e9dc5f72b823c,",
       "Header.Mono.Medium": "S:ac5c529eff27b739682eafa269cabe5776be97ff,",
       "Header.Mono.Dark": "S:7adeee12a1081e65c3bd852c265ffed57c38c117,",
-      "Header.gradient.gray1": "S:dfda789cc7d729178fd5c9b1a81f969407013b3c,",
-      "Header.gradient.gray2": "S:ff297c2257bb168015fb63b93b67d543cce77e71,",
       "Header.gradient.purple": "S:b96e1820f5d8b234284d43494163d5a6ad40691e,",
       "Header.Green.Light": "S:65cb507eb7a02b971165cf24d7f50f559cd48313,",
       "Header.Green.Medium": "S:e0fe9d835980a3b242aff64d3e21f1fc0946103b,",
@@ -43,10 +41,12 @@
       "Icon-btn-active.shape": "S:5b0a3596a3e37bf4ad77ce701c5d98dd6da3911a,",
       "TXT-btn-active.shape": "S:7cba425648bc84f56cb4f803a20f4ee372e9dce7,",
       "typo-btn-active.Title": "S:12ea24c162413eb3434d3017e1daf69e4764d760,",
-      "Background-btn-default.shape": "S:d33181412ee86a2c76eb783f2c1d53bdc0d64abf,",
       "Icon-btn-default.shape": "S:92c9e80afd6e6b724c9d18ebb8bc815e8dc79233,",
       "TXT-btn-default.shape": "S:57d4187990ceac7bd5530f0bb2e54215cc7ce751,",
-      "typo-btn-default.Title": "S:782bb2518c50f76634ede5d846fda704f5d30364,"
+      "Background-btn-default.main": "S:d33181412ee86a2c76eb783f2c1d53bdc0d64abf,",
+      "Header.gradient.12": "S:dfda789cc7d729178fd5c9b1a81f969407013b3c,",
+      "Header.gradient.50": "S:ff297c2257bb168015fb63b93b67d543cce77e71,",
+      "typo-btn-default.14": "S:782bb2518c50f76634ede5d846fda704f5d30364,"
     },
     "selectedTokenSets": {
       "Premitives/Colors/Light": "enabled",
@@ -64,8 +64,7 @@
       "Theme-Agenda/Component/Btn-Tab/Default": "enabled",
       "Theme-Agenda/Component/Btn-Tab/Filled": "enabled",
       "Theme-Agenda/Component/Btn-Tab/Active": "enabled",
-      "Theme-Agenda/Component/Btn/default": "enabled",
-      "Theme-Agenda/Component/Btn/activeee": "enabled"
+      "Theme-Agenda/Component/Btn/default": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:41:14875",
     "$figmaModeId": "41:6",
@@ -74,10 +73,8 @@
       "Icon-btn-active.shape": "029dbc9fb3151b4b15ba69e021f925808a908ec6",
       "TXT-btn-active.shape": "aa5d35dededcce2acfc95bb1c4312774aabd144f",
       "Size-Shape.48": "61ed4e9379188a11a33af79803f7c2ec7f2fece3",
-      "Size-Shape.iconsize20": "837899dd5bf805eccfdee17d3d233f4c09b01149",
       "Space-btn-active.24": "80dbaf783446b6bb52a438b57e87ea0bbfae6dfe",
       "Space-btn-active.14": "34541dd3f3bcd81ddf06e2656493ae5ba582319f",
-      "Background-btn-default.shape": "6e078a3f769398c733181ac6a4ec216e63cc080c",
       "Icon-btn-default.shape": "d329c284c18ebf7783cf1ae9004d6d1031c656e8",
       "TXT-btn-default.shape": "b6b83ef9ffc668b33790a604395cc8d74c48e0b4",
       "Background-btn-tab-active.shape": "6a2bf6785c36e044d0591a69347eae3ada9d52c1",
@@ -229,7 +226,9 @@
       "Header.Main.black": "8b57b0da720200d3ce9acb989bf36341c637c974",
       "Space-btn-default.14": "097a971a9b21c38e1927598b49a5214704e081a7",
       "radius-btn-default.48": "245a5128d04ed55dd7ec9a4d11d60ee08bc938a8",
-      "radius-btn-active.48": "dfbea1be357661ed606c997ee5726ad031cbb0dc"
+      "radius-btn-active.48": "dfbea1be357661ed606c997ee5726ad031cbb0dc",
+      "Background-btn-default.main": "6e078a3f769398c733181ac6a4ec216e63cc080c",
+      "Size-Shape.20": "837899dd5bf805eccfdee17d3d233f4c09b01149"
     },
     "group": "Agenda"
   }
