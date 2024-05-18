@@ -211,6 +211,38 @@
     "100": {
       "value": "{Numbers.100}",
       "type": "sizing"
+    },
+    "112": {
+      "value": "{Numbers.112}",
+      "type": "sizing"
+    },
+    "116": {
+      "value": "{Numbers.116}",
+      "type": "sizing"
+    },
+    "124": {
+      "value": "{Numbers.124}",
+      "type": "sizing"
+    },
+    "128": {
+      "value": "{Numbers.128}",
+      "type": "sizing"
+    },
+    "132": {
+      "value": "{Numbers.132}",
+      "type": "sizing"
+    },
+    "136": {
+      "value": "{Numbers.136}",
+      "type": "sizing"
+    },
+    "140": {
+      "value": "{Numbers.140}",
+      "type": "sizing"
+    },
+    "148": {
+      "value": "{Numbers.148}",
+      "type": "sizing"
     }
   }
 }
