@@ -1,1 +1,8 @@
-{}
+{
+  "Box-Shadow": {
+    "20": {
+      "value": "20px",
+      "type": "dimension"
+    }
+  }
+}

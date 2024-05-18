@@ -2,7 +2,16 @@
   "Background-btn-default": {
     "shape": {
       "value": "rgba({Header.Mono.Dark}, 0.4)",
-      "type": "color"
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0.14",
+            "space": "srgb"
+          }
+        }
+      }
     }
   },
   "radius-btn-default": {

@@ -27,10 +27,6 @@
       "Box-Shadow.Border-top-1px": "S:021ce8b2e391af11cfbc35b4ea15fd0d3ba0c522,",
       "Box-Shadow.8b": "S:5341ea09c7ec5b6a7fe6419dc59169a2e7f6c9e3,",
       "Box-Shadow.3b": "S:67b4b514fae5350a6f0c8acebe75639a18a49327,",
-      "Background-btn-default.shape": "S:3d44d74d03fea2352fd686eaceed2af99477e42c,",
-      "Icon-btn-default.shape": "S:ac8bbe751872f358fb1e462d4d2193ff2f66bc02,",
-      "TXT-btn-default.shape": "S:4cd9a81de66573264f93a73e10282a9edcffe245,",
-      "typo-btn-default.Title": "S:48d1119ad39182106366babbc67bbe22419b35ae,",
       "Background-btn-tab-default.shape": "S:e7b4b023d633ba4d126252d45ea1f00ed73bd825,",
       "Icon-btn-tab-default.shape": "S:c597fafed3350671810c4974684dd326f1296e47,",
       "TXT-btn-tab-default.shape": "S:f8becbfcdb6b3cd762d1f4ce139335e4bd50a3ff,",
@@ -42,7 +38,15 @@
       "Background-btn-tab-filled.shape": "S:ceea8eeb8d11282c5271d061a5efb1824d77c253,",
       "Icon-btn-tab-filled.shape": "S:b5d7876bcfb39e6556587ec54e1f8d7747032ec4,",
       "TXT-btn-tab-filled.shape": "S:50706d46f2c6b886c837602641d2127907f845ec,",
-      "typo-btn-tab-filled.Title": "S:da8d54ea9df30c5620783cd4aeb273b6c5c893d4,"
+      "typo-btn-tab-filled.Title": "S:da8d54ea9df30c5620783cd4aeb273b6c5c893d4,",
+      "Background-btn-active.shape": "S:3d44d74d03fea2352fd686eaceed2af99477e42c,",
+      "Icon-btn-active.shape": "S:ac8bbe751872f358fb1e462d4d2193ff2f66bc02,",
+      "TXT-btn-active.shape": "S:4cd9a81de66573264f93a73e10282a9edcffe245,",
+      "typo-btn-active.Title": "S:48d1119ad39182106366babbc67bbe22419b35ae,",
+      "Background-btn-default.shape": "S:3d44d74d03fea2352fd686eaceed2af99477e42c,",
+      "Icon-btn-default.shape": "S:ac8bbe751872f358fb1e462d4d2193ff2f66bc02,",
+      "TXT-btn-default.shape": "S:4cd9a81de66573264f93a73e10282a9edcffe245,",
+      "typo-btn-default.Title": "S:48d1119ad39182106366babbc67bbe22419b35ae,"
     },
     "selectedTokenSets": {
       "Premitives/Colors/Light": "enabled",
@@ -66,14 +70,20 @@
     "$figmaCollectionId": "VariableCollectionId:41:8356",
     "$figmaModeId": "41:3",
     "$figmaVariableReferences": {
+      "Background-btn-active.shape": "7d000529fd7fef58bc10105267e274ddc489c264",
+      "radius-btn-active.Main": "c0dc67a67ee0a33d53578ef6a56dcc936b6bc6bf",
+      "Icon-btn-active.shape": "1ac53aa73a465a07f32f8b1d53f099ade0306dd2",
+      "TXT-btn-active.shape": "ad7a7ceb374af873e4710a4abb203db348449ac3",
+      "Size-Shape.48": "bb20f6f8583d2b2d47b8efabf9db3f8c2951de22",
+      "Size-Shape.iconsize20": "cbf0007f3487bb23ec172ac004d0932eaf02dba9",
       "Background-btn-default.shape": "7d000529fd7fef58bc10105267e274ddc489c264",
       "radius-btn-default.Main": "c0dc67a67ee0a33d53578ef6a56dcc936b6bc6bf",
       "Icon-btn-default.shape": "1ac53aa73a465a07f32f8b1d53f099ade0306dd2",
       "TXT-btn-default.shape": "ad7a7ceb374af873e4710a4abb203db348449ac3",
-      "Size-Shape.48": "bb20f6f8583d2b2d47b8efabf9db3f8c2951de22",
       "Background-btn-tab-active.shape": "713f846833bca307591f6a62882c2e75e9dda0d0",
       "radius-btn-tab-active.Main": "36741c9b70c480bd5fdf2a51c710bbd94db769cb",
       "TXT-btn-tab-active.shape": "bb4febc13415a348acd57526871e2bf7cee1346f",
+      "Size-Shape.iconsize24": "cbf0007f3487bb23ec172ac004d0932eaf02dba9",
       "Background-btn-tab-filled.shape": "3e17ed1f94f514639656f29f6d7d48121c321a8b",
       "radius-btn-tab-filled.Main": "6e186f9d82e2348092b31cd5a8e89e10bdba06ba",
       "Icon-btn-tab-filled.shape": "2558bec98e2e63bfdaf0a72ce787204b3e3cd5ed",
@@ -85,6 +95,7 @@
       "Border-Radius.14": "8ed72718847c941c8b32520beee8c55335a2db3d",
       "Border-Radius.16": "19e3c3e230bd841ddd7d58643ab4a176f435fb78",
       "Border-Radius.48": "38d22a534310ec52766603d6b09077f4fc8163c0",
+      "Box-Shadow.20": "dd1699014fa7bb403977534d4fff5756be6501fb",
       "Sizes.0": "037800e5898e0ed1b0cec730639d27f1d5a4d85b",
       "Sizes.1": "bd3cfe6a8b6e3f02aa4d2f66b15f7ac7c37b7fc0",
       "Sizes.2": "7281e5cd6e6c6a1e9f765775b3f70b11b6839610",
@@ -215,8 +226,7 @@
       "Header.Purple.Medium": "ce6849d42818dda8cbba9b2d28f35bde82fcdff2",
       "Header.Purple.Dark": "33e05b537e3a5de14049d36c5ec1b4bfc4262c69",
       "Header.Main.White": "db020cf6afdd26ee2a437da8292a0010c699261b",
-      "Header.Main.black": "d6f87d28f13a33eed43d19322d1cb4df0619dde8",
-      "Size-Shape.iconsize20": "cbf0007f3487bb23ec172ac004d0932eaf02dba9"
+      "Header.Main.black": "d6f87d28f13a33eed43d19322d1cb4df0619dde8"
     },
     "group": "Agenda"
   }

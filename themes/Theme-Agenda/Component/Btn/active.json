@@ -1,35 +1,36 @@
 {
-  "Background-btn-default": {
+  "Background-btn-active": {
     "shape": {
-      "value": "rgba({Header.Mono.Dark}, 0.4)",
-      "type": "color"
+      "value": "rgba({Header.Mono.Dark}, 0.85)",
+      "type": "color",
+      "$extensions": {}
     }
   },
-  "radius-btn-default": {
+  "radius-btn-active": {
     "Main": {
       "value": "{Border-Radius.48}",
       "type": "borderRadius"
     }
   },
-  "Icon-btn-default": {
+  "Icon-btn-active": {
     "shape": {
       "value": "{Header.Main.White}",
       "type": "color"
     }
   },
-  "TXT-btn-default": {
+  "TXT-btn-active": {
     "shape": {
       "value": "rgba({Header.Main.White}, 0.9)",
       "type": "color"
     }
   },
-  "typo-btn-default": {
+  "typo-btn-active": {
     "Title": {
       "value": "{Typography.Medium.14}",
       "type": "typography"
     }
   },
-  "Shape-btn-default": {
+  "Shape-btn-active": {
     "Main": {
       "value": "{border-line.fade-white-20}",
       "type": "border"
