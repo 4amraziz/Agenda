@@ -14,7 +14,7 @@
         "type": "color"
       },
       "gradient-1": {
-        "value": "linear-gradient(-45deg, rgba({Header.Mono.Dark}, 0.12) 0%, rgba({Header.Mono.Dark}, 0.0) 100%), 0.8",
+        "value": "linear-gradient(-45deg, rgba({Header.Mono.Dark}, 0.12) 0%, rgba({Header.Mono.Dark}, 0.0) 100%, 0.1)",
         "type": "color"
       },
       "gradient-2": {
