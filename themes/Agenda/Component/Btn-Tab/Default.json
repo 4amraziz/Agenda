@@ -1,0 +1,26 @@
+{
+  "Background": {
+    "shape": {
+      "value": "rgba({Header.Main.White}, 0.1)",
+      "type": "color"
+    }
+  },
+  "Icon": {
+    "shape": {
+      "value": "{Header.Main.White}",
+      "type": "color"
+    }
+  },
+  "TXT": {
+    "shape": {
+      "value": "{Header.Main.White}",
+      "type": "color"
+    }
+  },
+  "Main": {
+    "Title": {
+      "value": "{Typography.SemiBold.12}",
+      "type": "typography"
+    }
+  }
+}
