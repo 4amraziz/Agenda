@@ -1,7 +1,7 @@
 {
   "Background-btn-active": {
     "shape": {
-      "value": "rgba({Header.Mono.Dark}, 0.85)",
+      "value": "rgba({Header.Mono.Dark}, 1)",
       "type": "color",
       "$extensions": {}
     }
