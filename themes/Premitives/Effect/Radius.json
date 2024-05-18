@@ -1,0 +1,12 @@
+{
+  "Border-Radius": {
+    "14": {
+      "value": "{Numbers.14}",
+      "type": "borderRadius"
+    },
+    "16": {
+      "value": "{Numbers.16}",
+      "type": "borderRadius"
+    }
+  }
+}

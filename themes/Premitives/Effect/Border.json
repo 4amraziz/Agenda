@@ -8,9 +8,17 @@
       },
       "type": "border"
     },
-    "fade-white": {
+    "fade-white-20": {
       "value": {
         "color": "rgba({Header.Main.White}, 0.2)",
+        "width": "1",
+        "style": "solid"
+      },
+      "type": "border"
+    },
+    "fade-white-10": {
+      "value": {
+        "color": "rgba({Header.Main.White}, 0.1)",
         "width": "1",
         "style": "solid"
       },

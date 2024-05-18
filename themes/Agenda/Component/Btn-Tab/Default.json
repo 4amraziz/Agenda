@@ -25,7 +25,7 @@
   },
   "Shape": {
     "Main": {
-      "value": "rgba({border-line.white}, 0.1)",
+      "value": "{border-line.fade-white-10}",
       "type": "border"
     }
   }

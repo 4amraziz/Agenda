@@ -10,6 +10,7 @@
     "Premitives/Effect/Box-Shadow",
     "Premitives/Effect/Background-Blur",
     "Premitives/Effect/Border",
+    "Premitives/Effect/Radius",
     "Agenda/Component/Btn-Tab/Default",
     "Agenda/Component/Btn-Tab/Fadeout"
   ]
