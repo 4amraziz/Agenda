@@ -1,35 +1,35 @@
 {
-  "Background-btn-tab-filled": {
+  "Background-btn-tab-active": {
     "shape": {
       "value": "{Header.Main.White}",
       "type": "color"
     }
   },
-  "radius-btn-tab-filled": {
+  "radius-btn-tab-active": {
     "Main": {
       "value": "{Border-Radius.14}",
       "type": "borderRadius"
     }
   },
-  "Icon-btn-tab-filled": {
+  "Icon-btn-tab-active": {
     "shape": {
       "value": "{Header.gradient.purple}",
       "type": "color"
     }
   },
-  "TXT-btn-tab-filled": {
+  "TXT-btn-tab-active": {
     "shape": {
       "value": "rgba({Header.Main.White}, 0.9)",
       "type": "color"
     }
   },
-  "typo-btn-tab-filled": {
+  "typo-btn-tab-active": {
     "Title": {
       "value": "{Typography.SemiBold.12}",
       "type": "typography"
     }
   },
-  "Shape-btn-tab-filled": {
+  "Shape-btn-tab-active": {
     "Main": {
       "value": "{border-line.fade-black}",
       "type": "border"

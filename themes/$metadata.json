@@ -15,6 +15,7 @@
     "Theme-Agenda/Component/Btn-Tab/Default",
     "Theme-Agenda/Component/Btn-Tab/Filled",
     "Theme-Agenda/Component/Btn-Tab/Active",
-    "Theme-Agenda/Component/Btn/default"
+    "Theme-Agenda/Component/Btn/default",
+    "Theme-Agenda/Component/Btn/active"
   ]
 }

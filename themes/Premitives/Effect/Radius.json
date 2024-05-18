@@ -7,6 +7,10 @@
     "16": {
       "value": "{Numbers.16}",
       "type": "borderRadius"
+    },
+    "48": {
+      "value": "{Numbers.48}",
+      "type": "borderRadius"
     }
   }
 }
