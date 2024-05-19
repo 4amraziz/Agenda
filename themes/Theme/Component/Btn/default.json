@@ -13,6 +13,19 @@
         }
       }
     },
+    "main-active": {
+      "value": "rgba({Header.Mono.Dark}, 0.85)",
+      "type": "color",
+      "$extensions": {
+        "studio.tokens": {
+          "modify": {
+            "type": "lighten",
+            "value": "0.01",
+            "space": "srgb"
+          }
+        }
+      }
+    },
     "tabmain": {
       "value": "{Header.gradient.12}",
       "type": "color"
@@ -77,6 +90,10 @@
     },
     "20": {
       "value": "{border-line.fade-white-20}",
+      "type": "border"
+    },
+    "25": {
+      "value": "{border-line.fade-white-25}",
       "type": "border"
     },
     "blackborder": {

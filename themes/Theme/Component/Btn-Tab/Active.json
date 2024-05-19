@@ -43,6 +43,10 @@
     "iconsize24": {
       "value": "24",
       "type": "sizing"
+    },
+    "iconsize32": {
+      "value": "{Numbers.32}",
+      "type": "sizing"
     }
   }
 }

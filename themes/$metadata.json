@@ -12,9 +12,9 @@
     "Premitives/Effect/Background-Blur",
     "Premitives/Effect/Border",
     "Premitives/Effect/Radius",
-    "Theme-Agenda/Component/Btn-Tab/Default",
-    "Theme-Agenda/Component/Btn-Tab/Filled",
-    "Theme-Agenda/Component/Btn-Tab/Active",
-    "Theme-Agenda/Component/Btn/default"
+    "Theme/Component/Btn-Tab/Default",
+    "Theme/Component/Btn-Tab/Filled",
+    "Theme/Component/Btn-Tab/Active",
+    "Theme/Component/Btn/default"
   ]
 }

@@ -68,10 +68,10 @@
       "Premitives/Effect/Background-Blur": "enabled",
       "Premitives/Effect/Border": "enabled",
       "Premitives/Effect/Radius": "enabled",
-      "Theme-Agenda/Component/Btn-Tab/Default": "enabled",
-      "Theme-Agenda/Component/Btn-Tab/Filled": "enabled",
-      "Theme-Agenda/Component/Btn-Tab/Active": "enabled",
-      "Theme-Agenda/Component/Btn/default": "enabled"
+      "Theme/Component/Btn-Tab/Default": "enabled",
+      "Theme/Component/Btn-Tab/Filled": "enabled",
+      "Theme/Component/Btn-Tab/Active": "enabled",
+      "Theme/Component/Btn/default": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:41:20539",
     "$figmaModeId": "41:9",
