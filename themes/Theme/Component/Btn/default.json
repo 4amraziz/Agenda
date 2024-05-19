@@ -26,12 +26,21 @@
         }
       }
     },
+    "tabmain-active": {
+      "value": "{Header.Mono.Medium}",
+      "type": "color",
+      "$extensions": {}
+    },
     "tabmain": {
       "value": "{Header.gradient.12}",
       "type": "color"
     },
     "tabmain-current": {
       "value": "{Header.Mono.Medium}",
+      "type": "color"
+    },
+    "circlebg": {
+      "value": "rgba({Header.Main.White}, 0.64)",
       "type": "color"
     }
   },
@@ -74,6 +83,10 @@
     }
   },
   "typo-btn-default": {
+    "8": {
+      "value": "{Typography.Medium.8}",
+      "type": "typography"
+    },
     "10": {
       "value": "{Typography.Medium.10}",
       "type": "typography"
@@ -92,6 +105,10 @@
     },
     "20": {
       "value": "{Typography.Medium.20}",
+      "type": "typography"
+    },
+    "16-Medium": {
+      "value": "{Typography.Medium.16}",
       "type": "typography"
     }
   },
@@ -140,6 +157,10 @@
     }
   },
   "Space-btn-default": {
+    "4": {
+      "value": "{Numbers.4}",
+      "type": "spacing"
+    },
     "5": {
       "value": "{Numbers.5}",
       "type": "spacing"
