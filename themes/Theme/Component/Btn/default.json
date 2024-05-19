@@ -28,8 +28,7 @@
     },
     "tabmain-active": {
       "value": "{Header.Mono.Medium}",
-      "type": "color",
-      "$extensions": {}
+      "type": "color"
     },
     "tabmain": {
       "value": "{Header.gradient.12}",
