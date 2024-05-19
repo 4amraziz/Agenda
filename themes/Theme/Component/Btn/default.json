@@ -74,12 +74,24 @@
     }
   },
   "typo-btn-default": {
+    "10": {
+      "value": "{Typography.Medium.10}",
+      "type": "typography"
+    },
+    "11": {
+      "value": "{Typography.Regular.11}",
+      "type": "typography"
+    },
     "14": {
       "value": "{Typography.Medium.14}",
       "type": "typography"
     },
     "16": {
       "value": "{Typography.SemiBold.16}",
+      "type": "typography"
+    },
+    "20": {
+      "value": "{Typography.Medium.20}",
       "type": "typography"
     }
   },
