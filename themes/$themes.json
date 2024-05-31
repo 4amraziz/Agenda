@@ -55,24 +55,7 @@
       "Icon-btn-back-default.wh": "S:aaf648721bd4ef7ae0e9e49fa4c3c2a3d76fcf67,",
       "typo-btn-default.16": "S:a48d2aa5148f08604224cb8ceaa058900f70523a,"
     },
-    "selectedTokenSets": {
-      "Premitives/Colors/Light": "enabled",
-      "Premitives/Font/Family": "enabled",
-      "Premitives/Font/Weight": "enabled",
-      "Premitives/Font/Line-height": "enabled",
-      "Premitives/Font/Typography": "enabled",
-      "Premitives/Font/Size": "enabled",
-      "Premitives/Effect/Number": "enabled",
-      "Premitives/Effect/Size": "enabled",
-      "Premitives/Effect/Box-Shadow": "enabled",
-      "Premitives/Effect/Background-Blur": "enabled",
-      "Premitives/Effect/Border": "enabled",
-      "Premitives/Effect/Radius": "enabled",
-      "Theme/Component/Btn-Tab/Default": "enabled",
-      "Theme/Component/Btn-Tab/Filled": "enabled",
-      "Theme/Component/Btn-Tab/Active": "enabled",
-      "Theme/Component/Btn/default": "enabled"
-    },
+    "selectedTokenSets": {},
     "$figmaCollectionId": "VariableCollectionId:41:20539",
     "$figmaModeId": "41:9",
     "$figmaVariableReferences": {

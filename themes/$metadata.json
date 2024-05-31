@@ -1,20 +1,3 @@
 {
-  "tokenSetOrder": [
-    "Premitives/Colors/Light",
-    "Premitives/Font/Family",
-    "Premitives/Font/Weight",
-    "Premitives/Font/Line-height",
-    "Premitives/Font/Typography",
-    "Premitives/Font/Size",
-    "Premitives/Effect/Number",
-    "Premitives/Effect/Size",
-    "Premitives/Effect/Box-Shadow",
-    "Premitives/Effect/Background-Blur",
-    "Premitives/Effect/Border",
-    "Premitives/Effect/Radius",
-    "Theme/Component/Btn-Tab/Default",
-    "Theme/Component/Btn-Tab/Filled",
-    "Theme/Component/Btn-Tab/Active",
-    "Theme/Component/Btn/default"
-  ]
+  "tokenSetOrder": []
 }
