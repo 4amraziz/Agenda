@@ -62,7 +62,8 @@
       "Effect/🟨 Radius": "source",
       "Dimentions/📐 Space": "source",
       "Dimentions/📏 Padding": "source",
-      "Dimentions/✂️ Number": "source"
+      "Dimentions/✂️ Number": "source",
+      "Assets/🏜️ Images": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:41:20539",
     "$figmaModeId": "41:9",
