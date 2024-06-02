@@ -1,14 +1,14 @@
 {
   "tokenSetOrder": [
-    "Theme/🟢 Light",
-    "Theme/⚪ Dark",
+    "Theme/🌞 Light",
+    "Theme/🌜 Dark",
     "Dimentions/🖍️ Number",
     "Dimentions/🌄 Space",
     "Dimentions/🌡️ Padding",
     "Effect/🌫️ Radius",
-    "Effect/🎈 Border",
-    "Effect/🎈 Shadow",
-    "Effect/🎈 Blur",
-    "Typography/🎈 Web"
+    "Effect/➖ Border",
+    "Effect/🔆 Shadow",
+    "Effect/🌘 Blur",
+    "Typography/🖥️ Web"
   ]
 }
