@@ -1,9 +1,11 @@
 {
   "tokenSetOrder": [
-    "Primitives/Light",
-    "Primitives/Dark",
-    "Primitives/Number",
-    "Primitives/Effects",
-    "Primitives/Typography"
+    "Theme/🟢 Light",
+    "Theme/⚪ Dark",
+    "Dimentions/🖍️ Number",
+    "Dimentions/🌄 Space",
+    "Dimentions/Padding",
+    "Dimentions/Radius",
+    "Typography/Web"
   ]
 }
