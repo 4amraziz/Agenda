@@ -1,3 +1,9 @@
 {
-  "tokenSetOrder": []
+  "tokenSetOrder": [
+    "Primitives/Light",
+    "Primitives/Dark",
+    "Primitives/Effects",
+    "Primitives/Number",
+    "Primitives/Typography"
+  ]
 }
