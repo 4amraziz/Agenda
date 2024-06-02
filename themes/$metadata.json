@@ -5,7 +5,10 @@
     "Dimentions/🖍️ Number",
     "Dimentions/🌄 Space",
     "Dimentions/🌡️ Padding",
-    "Dimentions/🌫️ Radius",
+    "Effect/🌫️ Radius",
+    "Effect/🎈 Border",
+    "Effect/🎈 Shadow",
+    "Effect/🎈 Blur",
     "Typography/🎈 Web"
   ]
 }
