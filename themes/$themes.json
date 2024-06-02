@@ -65,16 +65,7 @@
       "Effect/🔆 Shadow": "enabled",
       "Effect/🌘 Blur": "enabled",
       "Assets/🏜️ Images": "enabled",
-      "Core/🌞 Light": "enabled",
-      "Core/🌜 Dark": "disabled",
-      "Core/🏜️ Images": "disabled",
-      "Core/✂️ Number": "disabled",
-      "Core/📐 Space": "disabled",
-      "Core/📏 Padding": "disabled",
-      "Core/🟨 Radius": "disabled",
-      "Core/➖ Border": "disabled",
-      "Core/🔆 Shadow": "disabled",
-      "Core/🌘 Blur": "disabled"
+      "Core/🌞 Light": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:41:20539",
     "$figmaModeId": "41:9",
