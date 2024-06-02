@@ -59,13 +59,10 @@
       "Dimentions/🖍️ Number": "source",
       "Dimentions/🌄 Space": "source",
       "Dimentions/🌡️ Padding": "source",
-      "Effect/🌫️ Radius": "source",
-      "Effect/➖ Border": "disabled",
-      "Effect/🔆 Shadow": "disabled",
-      "Effect/🌘 Blur": "disabled",
       "Theme/🌞 Light": "source",
       "Theme/🌜 Dark": "source",
-      "Typography/🖥️ Web": "source"
+      "Typography/🖥️ Web": "source",
+      "Effect/🟨 Radius": "source"
     },
     "$figmaCollectionId": "VariableCollectionId:41:20539",
     "$figmaModeId": "41:9",
