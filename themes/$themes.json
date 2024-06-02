@@ -56,13 +56,9 @@
       "typo-btn-default.16": "S:a48d2aa5148f08604224cb8ceaa058900f70523a,"
     },
     "selectedTokenSets": {
-      "Dimentions/Padding": "disabled",
-      "Dimentions/Radius": "disabled",
-      "Typography/Web": "disabled",
-      "Theme/🟢 Light": "disabled",
-      "Theme/⚪ Dark": "disabled",
-      "Dimentions/🖍️ Number": "disabled",
-      "Dimentions/🌄 Space": "disabled"
+      "Dimentions/🌡️ Padding": "disabled",
+      "Dimentions/🌫️ Radius": "disabled",
+      "Typography/🎈 Web": "disabled"
     },
     "$figmaCollectionId": "VariableCollectionId:41:20539",
     "$figmaModeId": "41:9",
