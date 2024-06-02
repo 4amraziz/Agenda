@@ -55,7 +55,15 @@
       "Icon-btn-back-default.wh": "S:aaf648721bd4ef7ae0e9e49fa4c3c2a3d76fcf67,",
       "typo-btn-default.16": "S:a48d2aa5148f08604224cb8ceaa058900f70523a,"
     },
-    "selectedTokenSets": {},
+    "selectedTokenSets": {
+      "Theme/🟢 Light": "source",
+      "Theme/⚪ Dark": "source",
+      "Dimentions/🖍️ Number": "source",
+      "Dimentions/🌄 Space": "source",
+      "Dimentions/🌡️ Padding": "source",
+      "Dimentions/🌫️ Radius": "source",
+      "Typography/🎈 Web": "source"
+    },
     "$figmaCollectionId": "VariableCollectionId:41:20539",
     "$figmaModeId": "41:9",
     "$figmaVariableReferences": {
