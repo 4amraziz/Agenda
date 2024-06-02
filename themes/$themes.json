@@ -55,13 +55,7 @@
       "Icon-btn-back-default.wh": "S:aaf648721bd4ef7ae0e9e49fa4c3c2a3d76fcf67,",
       "typo-btn-default.16": "S:a48d2aa5148f08604224cb8ceaa058900f70523a,"
     },
-    "selectedTokenSets": {
-      "Primitives/Effects": "disabled",
-      "Primitives/Light": "disabled",
-      "Primitives/Dark": "disabled",
-      "Primitives/Number": "disabled",
-      "Primitives/Typography": "disabled"
-    },
+    "selectedTokenSets": {},
     "$figmaCollectionId": "VariableCollectionId:41:20539",
     "$figmaModeId": "41:9",
     "$figmaVariableReferences": {
