@@ -1,7 +1,15 @@
 {
   "tokenSetOrder": [
-    "Theme/🌞 Light",
-    "Theme/🌜 Dark",
+    "Core/🌞 Light",
+    "Core/🌜 Dark",
+    "Core/✂️ Number",
+    "Core/📐 Space",
+    "Core/📏 Padding",
+    "Core/🟨 Radius",
+    "Core/➖ Border",
+    "Core/🔆 Shadow",
+    "Core/🌘 Blur",
+    "Core/🏜️ Images",
     "Dimentions/✂️ Number",
     "Dimentions/📐 Space",
     "Dimentions/📏 Padding",
