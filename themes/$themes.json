@@ -65,9 +65,7 @@
       "Effect/🔆 Shadow": "enabled",
       "Effect/🌘 Blur": "enabled",
       "Assets/🏜️ Images": "enabled",
-      "Core/🎨 colors": "disabled",
-      "Theme/🌞 Light": "enabled",
-      "Theme/🌜 Dark": "disabled"
+      "Theme/🌞 Light": "enabled"
     },
     "$figmaCollectionId": "VariableCollectionId:41:20539",
     "$figmaModeId": "41:9",
